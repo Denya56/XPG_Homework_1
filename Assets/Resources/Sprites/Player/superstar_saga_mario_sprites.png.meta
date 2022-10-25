@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5483661874c85674894d5689e4d92e27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 252
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30072dfa3b624d744bb6c8b0e80f4f28
+      internalID: -1504413058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 253
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466fcd9ce822f243857085849af6cc8
+      internalID: -2055468663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 253
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc371f26c947a42b45557dd978bb56
+      internalID: 359022941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 253
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224d32b05c3a3f40ad7dffbb4b1c65b
+      internalID: 355616520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 253
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c776613f12c38f4478d88086f48b4f30
+      internalID: 2271609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1251
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be5c06d7c096043b5fd440f26c6b07
+      internalID: 703536245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1252
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752ba6560876fc47b52b3f94fa1a41a
+      internalID: -1593166677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1252
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f20bd8d97954240948df9c1ad4481a
+      internalID: 174378748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd146e34845ae4448b0d63688742d6f
+      internalID: 789353459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7bf12adaa85854285d1ed58e4720fd
+      internalID: 879940399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      superstar_saga_mario_sprites_54: -1417848263
+      superstar_saga_mario_sprites_101: 457556578
+      superstar_saga_mario_sprites_106: -1287913203
+      superstar_saga_mario_sprites_68: 1625002615
+      superstar_saga_mario_sprites_134: 773932603
+      superstar_saga_mario_sprites_86: 271576609
+      superstar_saga_mario_sprites_139: 375703992
+      superstar_saga_mario_sprites_203: 627151357
+      superstar_saga_mario_sprites_34: 1314527591
+      superstar_saga_mario_sprites_122: -321220196
+      superstar_saga_mario_sprites_59: 701271415
+      superstar_saga_mario_sprites_183: 451445516
+      superstar_saga_mario_sprites_14: -1347092199
+      superstar_saga_mario_sprites_62: 1773228361
+      superstar_saga_mario_sprites_91: -1063312494
+      superstar_saga_mario_sprites_118: 1308562841
+      superstar_saga_mario_sprites_127: -555277426
+      superstar_saga_mario_sprites_187: -800830757
+      superstar_saga_mario_sprites_109: -414919825
+      superstar_saga_mario_sprites_129: 749878646
+      superstar_saga_mario_sprites_93: -63275218
+      superstar_saga_mario_sprites_225: 140648403
+      superstar_saga_mario_sprites_219: 683919559
+      superstar_saga_mario_sprites_120: -1164642150
+      superstar_saga_mario_sprites_89: -114730925
+      superstar_saga_mario_sprites_164: 341185571
+      superstar_saga_mario_sprites_105: -1254862030
+      superstar_saga_mario_sprites_116: -1847603283
+      superstar_saga_mario_sprites_12: -471163634
+      superstar_saga_mario_sprites_204: -1953207345
+      superstar_saga_mario_sprites_23: -1186073621
+      Jump_3: -577284824
+      superstar_saga_mario_sprites_60: 129074503
+      superstar_saga_mario_sprites_212: -1266026343
+      superstar_saga_mario_sprites_234: 134180835
+      superstar_saga_mario_sprites_75: 1435967995
+      Jump_6: 466082164
+      superstar_saga_mario_sprites_142: -714956078
+      superstar_saga_mario_sprites_233: -1384304727
+      superstar_saga_mario_sprites_36: -35423998
+      superstar_saga_mario_sprites_66: 745003462
+      superstar_saga_mario_sprites_206: 168676008
+      superstar_saga_mario_sprites_44: -538478957
+      superstar_saga_mario_sprites_185: 401884066
+      superstar_saga_mario_sprites_131: -1203124640
+      Idle_0: 703536245
+      superstar_saga_mario_sprites_210: 1355092061
+      superstar_saga_mario_sprites_73: 1170527422
+      superstar_saga_mario_sprites_222: -326203248
+      superstar_saga_mario_sprites_221: -1380997734
+      superstar_saga_mario_sprites_232: 1519502153
+      superstar_saga_mario_sprites_17: -1070102386
+      superstar_saga_mario_sprites_200: -1472848456
+      superstar_saga_mario_sprites_70: -1182531920
+      superstar_saga_mario_sprites_107: 659809320
+      superstar_saga_mario_sprites_37: 224237619
+      superstar_saga_mario_sprites_154: 2103833910
+      superstar_saga_mario_sprites_161: 700979641
+      superstar_saga_mario_sprites_170: 1530638804
+      superstar_saga_mario_sprites_157: -736211687
+      superstar_saga_mario_sprites_33: -1298703953
+      superstar_saga_mario_sprites_125: 1699121643
+      superstar_saga_mario_sprites_43: -1593580193
+      superstar_saga_mario_sprites_27: -2134789253
+      superstar_saga_mario_sprites_74: 440349140
+      Jump_5: 1500371117
+      superstar_saga_mario_sprites_7: -9871926
+      superstar_saga_mario_sprites_205: 235316616
+      superstar_saga_mario_sprites_168: 22655877
+      Jump_2: -487062898
+      superstar_saga_mario_sprites_227: -1945553188
+      superstar_saga_mario_sprites_76: 685196448
+      superstar_saga_mario_sprites_228: -1212510219
+      superstar_saga_mario_sprites_65: 1284215972
+      superstar_saga_mario_sprites_215: 167325894
+      superstar_saga_mario_sprites_77: 203061984
+      superstar_saga_mario_sprites_178: 554822533
+      superstar_saga_mario_sprites_108: 501348647
+      superstar_saga_mario_sprites_214: 1040463156
+      superstar_saga_mario_sprites_8: 1905421709
+      superstar_saga_mario_sprites_209: 1007346060
+      superstar_saga_mario_sprites_84: 290222101
+      superstar_saga_mario_sprites_181: 2052902098
+      superstar_saga_mario_sprites_145: -1896771127
+      superstar_saga_mario_sprites_132: 7966605
+      superstar_saga_mario_sprites_46: -1901658537
+      superstar_saga_mario_sprites_99: -1117996742
+      superstar_saga_mario_sprites_140: 555925996
+      superstar_saga_mario_sprites_96: 1371484542
+      superstar_saga_mario_sprites_49: 1779940900
+      superstar_saga_mario_sprites_169: -1150640118
+      superstar_saga_mario_sprites_64: 1709039443
+      superstar_saga_mario_sprites_163: -473174410
+      superstar_saga_mario_sprites_150: -746669248
+      superstar_saga_mario_sprites_11: 319087022
+      Idle_1: -1593166677
+      superstar_saga_mario_sprites_98: -1527328790
+      superstar_saga_mario_sprites_88: -622267989
+      superstar_saga_mario_sprites_119: -2005893424
+      superstar_saga_mario_sprites_202: -261992771
+      superstar_saga_mario_sprites_83: 426813563
+      superstar_saga_mario_sprites_188: -1926342836
+      superstar_saga_mario_sprites_197: -454359018
+      superstar_saga_mario_sprites_123: -702465138
+      superstar_saga_mario_sprites_35: -514056407
+      superstar_saga_mario_sprites_199: 491945369
+      superstar_saga_mario_sprites_152: -1694482126
+      superstar_saga_mario_sprites_167: 1178774865
+      superstar_saga_mario_sprites_160: -1689006718
+      superstar_saga_mario_sprites_39: -1150946106
+      superstar_saga_mario_sprites_100: 827720291
+      superstar_saga_mario_sprites_10: 1767898105
+      superstar_saga_mario_sprites_41: 267557525
+      superstar_saga_mario_sprites_53: -408041440
+      Idle_2: 174378748
+      superstar_saga_mario_sprites_80: 570960581
+      superstar_saga_mario_sprites_48: -1496130507
+      superstar_saga_mario_sprites_102: -387810119
+      superstar_saga_mario_sprites_13: 1174144372
+      superstar_saga_mario_sprites_155: -2109676859
+      superstar_saga_mario_sprites_218: -414079049
+      superstar_saga_mario_sprites_159: 103110838
+      superstar_saga_mario_sprites_71: -1543971576
+      superstar_saga_mario_sprites_25: 1995447137
+      superstar_saga_mario_sprites_78: 614251314
+      superstar_saga_mario_sprites_90: 1287438955
+      superstar_saga_mario_sprites_42: 220360610
+      superstar_saga_mario_sprites_18: -872592474
+      superstar_saga_mario_sprites_126: 971604166
+      superstar_saga_mario_sprites_175: -2084960074
+      superstar_saga_mario_sprites_151: 1854072998
+      superstar_saga_mario_sprites_32: 869894265
+      superstar_saga_mario_sprites_110: -1184553905
+      superstar_saga_mario_sprites_117: 1223999708
+      superstar_saga_mario_sprites_229: 1241270051
+      superstar_saga_mario_sprites_144: -340528044
+      superstar_saga_mario_sprites_165: 345502135
+      superstar_saga_mario_sprites_190: 2026387481
+      superstar_saga_mario_sprites_67: -654725045
+      Jump_0: 789353459
+      Walk_2: 359022941
+      superstar_saga_mario_sprites_113: -1073836464
+      superstar_saga_mario_sprites_138: -2121824303
+      superstar_saga_mario_sprites_24: 1847665937
+      superstar_saga_mario_sprites_52: 983199657
+      superstar_saga_mario_sprites_103: 1127559093
+      superstar_saga_mario_sprites_121: 1645444349
+      superstar_saga_mario_sprites_146: 1261894342
+      superstar_saga_mario_sprites_63: 265674502
+      superstar_saga_mario_sprites_201: -90544811
+      superstar_saga_mario_sprites_9: -1217601287
+      superstar_saga_mario_sprites_148: 638013496
+      superstar_saga_mario_sprites_55: 1245205069
+      superstar_saga_mario_sprites_158: -489339170
+      superstar_saga_mario_sprites_58: -751010931
+      superstar_saga_mario_sprites_94: -1300959963
+      superstar_saga_mario_sprites_176: -866868025
+      superstar_saga_mario_sprites_19: 1089049271
+      superstar_saga_mario_sprites_81: -389761755
+      superstar_saga_mario_sprites_186: -733076340
+      superstar_saga_mario_sprites_69: -1844358342
+      superstar_saga_mario_sprites_124: 778232344
+      superstar_saga_mario_sprites_235: 1419917462
+      superstar_saga_mario_sprites_137: -1309173557
+      superstar_saga_mario_sprites_217: 1238195391
+      superstar_saga_mario_sprites_224: -1146318666
+      superstar_saga_mario_sprites_16: 808719810
+      superstar_saga_mario_sprites_143: 304610592
+      superstar_saga_mario_sprites_92: 494443673
+      Walk_1: -2055468663
+      superstar_saga_mario_sprites_231: -544197667
+      superstar_saga_mario_sprites_72: -1899307586
+      superstar_saga_mario_sprites_111: 1041161299
+      superstar_saga_mario_sprites_61: 85408282
+      superstar_saga_mario_sprites_115: 903843316
+      superstar_saga_mario_sprites_172: -807688253
+      superstar_saga_mario_sprites_162: 1458425846
+      superstar_saga_mario_sprites_57: -1653324278
+      superstar_saga_mario_sprites_114: 632864746
+      superstar_saga_mario_sprites_45: -330429479
+      superstar_saga_mario_sprites_226: -696595912
+      superstar_saga_mario_sprites_47: 952275217
+      superstar_saga_mario_sprites_223: 1834061988
+      superstar_saga_mario_sprites_180: 1315493517
+      superstar_saga_mario_sprites_220: -143869684
+      Jump_1: 879940399
+      superstar_saga_mario_sprites_29: 637050605
+      superstar_saga_mario_sprites_51: 92363233
+      superstar_saga_mario_sprites_135: -1582394675
+      superstar_saga_mario_sprites_149: -2080084801
+      superstar_saga_mario_sprites_136: 540706445
+      superstar_saga_mario_sprites_236: 495280210
+      superstar_saga_mario_sprites_237: 328496678
+      superstar_saga_mario_sprites_208: -472497885
+      Walk_4: 2271609
+      superstar_saga_mario_sprites_147: -1558477305
+      superstar_saga_mario_sprites_15: 1301265262
+      superstar_saga_mario_sprites_171: -1178687683
+      superstar_saga_mario_sprites_141: 1821316672
+      superstar_saga_mario_sprites_104: -1478719105
+      superstar_saga_mario_sprites_153: 1601876244
+      superstar_saga_mario_sprites_21: -238714924
+      superstar_saga_mario_sprites_26: -1162924775
+      superstar_saga_mario_sprites_196: -618423474
+      Walk_3: 355616520
+      superstar_saga_mario_sprites_50: 635664472
+      superstar_saga_mario_sprites_211: -1503003224
+      superstar_saga_mario_sprites_79: 2037122070
+      superstar_saga_mario_sprites_85: 430159273
+      superstar_saga_mario_sprites_173: 2137207322
+      superstar_saga_mario_sprites_38: 1207883995
+      superstar_saga_mario_sprites_133: 1024473112
+      superstar_saga_mario_sprites_213: -262157839
+      superstar_saga_mario_sprites_130: 839762654
+      superstar_saga_mario_sprites_177: -1033844319
+      superstar_saga_mario_sprites_207: 1896473494
+      superstar_saga_mario_sprites_174: 1106621726
+      superstar_saga_mario_sprites_198: -737890938
+      superstar_saga_mario_sprites_87: -1707846024
+      superstar_saga_mario_sprites_179: 1411567829
+      Walk_0: -1504413058
+      superstar_saga_mario_sprites_189: 1843599276
+      superstar_saga_mario_sprites_56: -343819117
+      Jump_4: 996689756
+      superstar_saga_mario_sprites_112: -1626267018
+      superstar_saga_mario_sprites_230: 339647695
+      superstar_saga_mario_sprites_40: -696908804
+      superstar_saga_mario_sprites_22: 506721948
+      superstar_saga_mario_sprites_20: 472979873
+      superstar_saga_mario_sprites_28: -2078131332
+      superstar_saga_mario_sprites_97: -1087754640
+      superstar_saga_mario_sprites_166: 202654612
+      superstar_saga_mario_sprites_95: 1471171157
+      superstar_saga_mario_sprites_156: -1948838718
+      superstar_saga_mario_sprites_31: -2108575040
+      superstar_saga_mario_sprites_82: -837204813
+      superstar_saga_mario_sprites_184: -376912296
+      superstar_saga_mario_sprites_216: -2139466039
+      superstar_saga_mario_sprites_182: -900837001
+      superstar_saga_mario_sprites_30: -801774137
+      superstar_saga_mario_sprites_128: 108531036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
