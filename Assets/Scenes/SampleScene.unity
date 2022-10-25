@@ -6674,7 +6674,7 @@ MonoBehaviour:
   _speedR: 8
   _dash: 500
   _jumpAccelerationH: 0
-  _jumpHeight: 9.2
+  _jumpForce: 9
   platformsLayerMask:
     serializedVersion: 2
     m_Bits: 64
@@ -6717,7 +6717,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
+  m_LinearDrag: 0.5
   m_AngularDrag: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 6200000, guid: 652c727fda4a7ec4e9b264d993e7c5ac, type: 2}
@@ -7009,7 +7009,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1552922407}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 80.2, y: -5.63, z: 0}
+  m_LocalPosition: {x: 80.2, y: -8.36, z: 0}
   m_LocalScale: {x: 500, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
