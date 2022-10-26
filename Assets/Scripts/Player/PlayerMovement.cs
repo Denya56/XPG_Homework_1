@@ -5,7 +5,6 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float _speedW;
     [SerializeField] private float _speedR;
-    [SerializeField] private float _dash;
     [SerializeField] private float _jumpAccelerationH;
     [SerializeField] private float _jumpForce;
     [SerializeField] private LayerMask platformsLayerMask;

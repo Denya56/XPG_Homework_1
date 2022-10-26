@@ -37,6 +37,18 @@ public class RandomPlatform : MonoBehaviour
                 SetPlatformType();
             }
         }
+        if(_type == 0)
+        {
+            collision.transform.SetParent(transform);
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (_type == 0)
+        {
+            collision.transform.SetParent(null);
+        }
     }
 
     private void SetPlatformType()
