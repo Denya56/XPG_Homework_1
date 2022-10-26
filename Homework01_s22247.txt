@@ -1,0 +1,17 @@
+The scene contains:
+player object,
+platforms,
+object to reset the scene.
+
+Player features:
+walks,
+runs (with shift),
+jumps,
+double jumps,
+dashes (with Ctrl).
+
+Platform features
+a platform disappearing 1s after collision with player and reappearing after one more second,
+a platform that moves left/right - the player moves together with the platform,
+a platform that is a trampoline,
+a random platform (when player collides with it it randomly chooses what type to be: moving or disapppearing completely i.e. troll platform).
