@@ -325,6 +325,111 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Taking_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1152
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc695715cecd73044bd68270e4ed11b8
+      internalID: 1016499609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taking_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1155
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9fc5d9935e1f4faaa150ac6a4b976
+      internalID: 952087033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 404
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e6c4ae77e9e34086086b5b1adec8c
+      internalID: -389370513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 403
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262da4e714325a4aae4a85534dd5011
+      internalID: -1738916324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 402
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f595c99982d748bad67b7db12780c
+      internalID: -513280961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -420,6 +525,7 @@ TextureImporter:
       superstar_saga_mario_sprites_84: 290222101
       superstar_saga_mario_sprites_181: 2052902098
       superstar_saga_mario_sprites_145: -1896771127
+      Taking_Damage_0: 1016499609
       superstar_saga_mario_sprites_132: 7966605
       superstar_saga_mario_sprites_46: -1901658537
       superstar_saga_mario_sprites_99: -1117996742
@@ -470,6 +576,7 @@ TextureImporter:
       superstar_saga_mario_sprites_32: 869894265
       superstar_saga_mario_sprites_110: -1184553905
       superstar_saga_mario_sprites_117: 1223999708
+      Death_2: -513280961
       superstar_saga_mario_sprites_229: 1241270051
       superstar_saga_mario_sprites_144: -340528044
       superstar_saga_mario_sprites_165: 345502135
@@ -529,6 +636,7 @@ TextureImporter:
       superstar_saga_mario_sprites_136: 540706445
       superstar_saga_mario_sprites_236: 495280210
       superstar_saga_mario_sprites_237: 328496678
+      Death_0: -389370513
       superstar_saga_mario_sprites_208: -472497885
       Walk_4: 2271609
       superstar_saga_mario_sprites_147: -1558477305
@@ -551,6 +659,7 @@ TextureImporter:
       superstar_saga_mario_sprites_213: -262157839
       superstar_saga_mario_sprites_130: 839762654
       superstar_saga_mario_sprites_177: -1033844319
+      Death_1: -1738916324
       superstar_saga_mario_sprites_207: 1896473494
       superstar_saga_mario_sprites_174: 1106621726
       superstar_saga_mario_sprites_198: -737890938
@@ -568,6 +677,7 @@ TextureImporter:
       superstar_saga_mario_sprites_28: -2078131332
       superstar_saga_mario_sprites_97: -1087754640
       superstar_saga_mario_sprites_166: 202654612
+      Taking_Damage_1: 952087033
       superstar_saga_mario_sprites_95: 1471171157
       superstar_saga_mario_sprites_156: -1948838718
       superstar_saga_mario_sprites_31: -2108575040

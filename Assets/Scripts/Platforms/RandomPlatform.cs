@@ -17,9 +17,11 @@ public class RandomPlatform : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(_startPosition);
         switch (_type)
         {
             case 0:
+                // is worldToCell() required here?
                 transform.position = new Vector3(_startPosition.x + Mathf.PingPong(Time.time, _travelDistance), transform.position.y, transform.position.z);
                 break;
             case 1:

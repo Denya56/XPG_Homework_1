@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 088879500f04b004ba98faaaaf2c7ef4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boo_Move_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 960
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7d5ac93b1e794e89d991bd420505d
+      internalID: 1694412737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Move_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 960
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1b9b7987641e4299f9a76ae07dfd5
+      internalID: -532554124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Move_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 960
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f137966cf0e08449b5144fc3b02acd
+      internalID: 1684612461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Move_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 960
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9469ee0e3a769d4d8be2b1ef4b79e4e
+      internalID: -405904965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 735
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b85d6eb36c1124089d27b9fcd7ae11
+      internalID: -561473662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 737
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51c1d23f6b8df4da1fc04da5252bf3
+      internalID: -2004579367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 737
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce34db89f1ce24fb76f4daa4d696ad
+      internalID: 1215538398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 738
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa035726752a44c9e26512114fcfc0
+      internalID: -1648823400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 737
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d35f0d508bff0408ff1a07af8d329c
+      internalID: -173662147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 737
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41838ee60df7c469f2fdd9e74e3875
+      internalID: -749149761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 737
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8db9dc59d802449c48bf0ffda47fd
+      internalID: 2041070595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boo_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 736
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be874d3b55061644881d054be4cb0222
+      internalID: 1158182268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_250: -977727920
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_66: -676847651
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_212: -64216911
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_29: -216039189
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_57: -50944914
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_31: -1841242149
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_16: 89973421
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_98: 1376101549
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_154: 1115799630
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_127: -1931852625
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_32: 25178775
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_169: 363590889
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_228: -1834842761
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_156: 687224957
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_110: -106465743
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_177: -456510755
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_203: -1542451793
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_231: -1353976194
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_129: 450884417
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_215: -2065675475
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_21: 2112478400
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_194: -444418649
+      Boo_Attack_5: -749149761
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_241: -1621392938
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_71: 2113097757
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_22: 1793302757
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_197: 696570925
+      Boo_Move_1: -532554124
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_313: 1423254607
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_122: -1767640537
+      Boo_Move_3: -405904965
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_123: 1971931329
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_299: -349362257
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_266: -1798659530
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_133: -823119723
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_118: 749029012
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_218: 1511686843
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_26: 1049862992
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_251: 600573178
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_135: -1964986255
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_117: -65294873
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_183: -275226102
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_18: 543957103
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_42: -1148628813
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_174: -59087280
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_235: 177011927
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_161: 1859439872
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_200: 252524541
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_240: 1603249926
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_30: -1592397198
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_151: -1042325120
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_46: 1239280911
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_68: 194033941
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_5: -960437628
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_130: -440710772
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_85: -843124192
+      Boo_Move_2: 1684612461
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_222: -900284439
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_170: 1110258280
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_262: 850715091
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_293: 1032749969
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_263: -394944082
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_83: 2001884126
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_202: 566801417
+      Boo_Move_0: 1694412737
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_131: 1261451817
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_198: 614921105
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_282: 1761363724
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_114: 1798654715
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_89: 201474189
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_253: -350811479
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_10: 531403906
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_34: 2116351160
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_49: -91794785
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_48: -2118506137
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_132: 1840383775
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_309: -2131167310
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_210: -232110266
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_288: -1890067608
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_300: 276149636
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_37: 398876871
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_176: -865169680
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_52: 1670993926
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_104: -1356368786
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_108: 1909781579
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_219: 525797219
+      Boo_Attack_6: 2041070595
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_125: 116441642
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_64: 1400745242
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_303: 819987601
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_272: -419553237
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_103: 1696131484
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_111: 196259714
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_56: 1999673707
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_214: 1589418834
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_28: 1997193928
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_185: 157017138
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_223: 1681349402
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_244: -1053788016
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_255: 1195026896
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_278: -1213193326
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_160: 922670106
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_243: -975493640
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_40: 1386879900
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_236: 809768276
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_178: 589910483
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_88: -1639372462
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_312: 580150298
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_86: -39631825
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_145: 1456729829
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_143: 1491706898
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_167: -1426575247
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_242: 2084921351
+      Boo_Idle_0: -1621922120
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_258: -540969673
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_254: 717462404
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_301: 853651124
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_148: -993126758
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_106: 1225575941
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_191: 983602933
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_0: 1318054830
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_90: -1907548734
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_95: 2021703473
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_227: 1229257503
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_179: -1082040076
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_138: 576684344
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_271: -463820834
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_63: 770904729
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_216: 1690137818
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_204: 638966438
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_45: -1744152331
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_257: 915887540
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_119: -759427826
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_274: -1980335945
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_70: -112951132
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_199: -60240801
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_268: -918399865
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_290: -961811813
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_267: -1104619936
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_157: -1169716988
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_19: 1238141542
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_297: 1978703445
+      Boo_Attack_0: -561473662
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_96: 555518597
+      Boo_Idle_2: 209860213
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_109: -704578724
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_100: -707818590
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_105: 633733414
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_115: -1738137329
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_59: 590229570
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_238: -195062859
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_134: -889421176
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_295: -1754472677
+      Boo_Idle_3: 979463867
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_256: 117645844
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_152: -1250433974
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_229: 105944220
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_141: 95839741
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_51: 22004849
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_248: 654409184
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_234: -114280839
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_285: -585481160
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_20: 1401444981
+      Boo_Idle_1: -554506309
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_65: 1573355758
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_99: 792876046
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_201: -117979664
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_283: -1282749392
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_270: 1774300265
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_147: -1185833075
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_84: -1671424637
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_190: 950741252
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_38: -1844502529
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_181: 897080253
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_298: -1734464950
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_44: -452044039
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_140: 1602094050
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_187: 133334200
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_296: 348622753
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_208: -1110371605
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_180: 2081751411
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_173: -2078655624
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_261: -205720371
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_276: 1598018955
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_289: 1188802691
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_294: -1962276254
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_292: -1047217894
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_182: -232634223
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_113: 750676906
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_221: 259314435
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_11: 1965489695
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_158: 1081997506
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_237: -796089227
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_33: 730108682
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_206: 976635689
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_124: 1266106341
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_7: -643383641
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_47: -1977197595
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_126: -637697502
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_193: -48819705
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_159: 51709664
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_61: -1242567866
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_27: 530951330
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_246: 1467103077
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_94: 1870020970
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_36: 2021502665
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_93: 2046883559
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_62: -2017354090
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_209: -855090594
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_184: 1021271841
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_24: -217808242
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_308: -892245343
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_35: 1942894800
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_23: -1547986330
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_120: -537059982
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_67: 179878522
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_192: -959982115
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_121: 90860021
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_58: 367750288
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_60: 367022741
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_92: 1156094966
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_207: -1276479312
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_41: 270516400
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_239: 2095439379
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_112: -170675785
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_107: -950856585
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_220: 306108543
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_54: -886144283
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_196: 1056847032
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_165: 611956858
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_225: 1371880167
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_213: 1565526688
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_188: -502415300
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_259: -1993970540
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_286: 1393558523
+      Boo_Attack_3: -1648823400
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_6: 727347766
+      Boo_Attack_1: -2004579367
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_25: 161273083
+      Boo_Attack_7: 1158182268
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_307: 1077649513
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_101: -1487261630
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_233: -495203956
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_264: 734206653
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_175: -830765867
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_284: -877162266
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_50: -1056437303
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_87: -1969246215
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_82: 1010225436
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_291: -1639780968
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_43: 1046252067
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_142: 1372319560
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_136: 1423323733
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_172: 166138903
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_224: -1517570313
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_245: -1328652871
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_305: 1592242316
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_260: 489272573
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_8: 1467022196
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_55: -422789432
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_166: 1557098541
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_211: -1719927075
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_232: -335312005
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_252: -1672427010
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_80: 366404370
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_162: 1009309711
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_128: -1809926848
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_249: 1958582944
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_186: 87720393
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_279: 845044789
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_150: -1878648965
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_69: -253679588
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_81: 1783261845
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_189: -20517677
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_304: 13658525
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_310: -1008377480
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_195: 1340037193
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_281: -117621231
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_311: -1153215515
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_164: 2082991383
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_302: 1068510282
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_17: -143507658
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_97: 136720360
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_146: 14403720
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_277: -1918605760
+      Boo_Attack_2: 1215538398
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_168: -1485945513
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_53: 651270078
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_102: -1416741831
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_139: -1926169940
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_230: 787975544
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_163: -857392807
+      Boo_Attack_4: -173662147
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_205: -468777427
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_247: 1472386151
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_217: 2102087687
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_137: -428165182
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_275: -120459555
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_306: -772123205
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_9: 1461384924
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_226: -318238354
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_273: 119154215
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_144: -1726076746
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_155: 815978046
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_287: -279434614
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_149: -1235453272
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_265: -835280760
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_116: -1572977815
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_153: 1056419508
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_269: 572826452
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_280: 1103939753
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_39: 1674147305
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_91: -1806848809
+      Game Boy Advance - Mario & Luigi Superstar Saga - Boo_171: -506112318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
