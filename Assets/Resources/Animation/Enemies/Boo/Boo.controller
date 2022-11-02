@@ -15,7 +15,7 @@ MonoBehaviour:
   _speedPatrol: 1
   _speedChase: 11
   _travelDistance: 5
-  _attackCooldown: 1
+  _attackCooldown: 2
   _damage: 1
 --- !u!1102 &-6641848664965899735
 AnimatorState:

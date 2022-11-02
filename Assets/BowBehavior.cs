@@ -45,20 +45,16 @@ public class BowBehavior : StateMachineBehaviour
             {
                 Flip();
             }
-            /*if (!_isChasing)
-            {
-                
-                _isChasing = true;
-            }*/
+            //animator.SetBool("isChasing", true);
             animator.SetTrigger("Chase");
             Chase();
         }
-        else animator.ResetTrigger("Chase");
+        //else animator.SetBool("isChasing", false);
+        Debug.Log(Vector2.Distance(_rb.position, _player.position) < 5f);
     }
 
     private void Chase()
     {
-        
         Vector2 target = new Vector2(_player.position.x, _player.position.y);
         Vector2 newPosition = Vector2.MoveTowards(_rb.position, target, _speedChase * Time.deltaTime);
         _rb.MovePosition(newPosition);

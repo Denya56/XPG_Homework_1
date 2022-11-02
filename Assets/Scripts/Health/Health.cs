@@ -30,7 +30,7 @@ public class Health : MonoBehaviour
                 _animator.SetTrigger("Die");
                 GetComponent<PlayerMovement>().enabled = false;
                 _dead = true;
-                SceneManager.LoadScene("SampleScene");
+                new WaitForSeconds(0.35f);
             }            
         }
     }
