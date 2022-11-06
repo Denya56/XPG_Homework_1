@@ -7,4 +7,5 @@ public static class Axis {
     public const string JUMP = "Jump";
     public const string RUN = "Run";
     public const string DASH = "Dash";
+    public const string SUBMIT = "Submit";
 }

@@ -9,7 +9,8 @@ public class ResetScene : MonoBehaviour
     {
         if (collision.gameObject.CompareTag(Tag.PLAYER))
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene(SceneConst.LEVEL1);
+            Time.timeScale = 0f;
         }
     }
 }

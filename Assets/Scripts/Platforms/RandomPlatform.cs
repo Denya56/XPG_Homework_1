@@ -17,7 +17,7 @@ public class RandomPlatform : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(_startPosition);
+        //Debug.Log(_startPosition);
         switch (_type)
         {
             case 0:

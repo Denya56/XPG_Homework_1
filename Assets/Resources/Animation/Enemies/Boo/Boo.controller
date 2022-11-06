@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speedPatrol: 1
-  _speedChase: 11
+  _speedChase: 13
   _travelDistance: 5
   _attackCooldown: 2
   _damage: 1
